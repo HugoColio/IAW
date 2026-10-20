@@ -8,7 +8,7 @@
 
 ### 2. Vinculación y Subida Remota 
 **Aquí he conectado el repositorio local con el de github y lo subido.**   
-![Subir Repositorio](img/ejercicio1/gitinit.png)  
+![Subir Repositorio](img/ejercicio1/subirrepositorio.png)  
 
 ---  
 
