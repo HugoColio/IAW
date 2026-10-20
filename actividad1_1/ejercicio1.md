@@ -6,7 +6,7 @@
 **Aquí he creado un repositorio local usando git.**
 
 
-![Git Init](actividad1_1/img/ejercicio%201/git%20init.png)
+![Git Init](img/ejercicio%201/git%20init.png)
 
 ---
 
@@ -14,7 +14,7 @@
 **Aquí he conectado el repositorio local con el de github y lo subido.**
 
 
-![Subir Repositorio](actividad1_1/img/ejercicio%201/git%20init.png)
+![Subir Repositorio](img/ejercicio%201/git%20init.png)
 
 ---
 
