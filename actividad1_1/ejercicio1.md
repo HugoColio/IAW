@@ -6,7 +6,7 @@
 **Aquí he creado un repositorio local usando git.**
 
 
-![Git Init](/repositorios/IAW/actividad1_1/img/ejercicio%201/git%20init.png)
+![Git Init](actividad1_1/img/ejercicio%201/git%20init.png)
 
 ---
 
@@ -14,7 +14,7 @@
 **Aquí he conectado el repositorio local con el de github y lo subido.**
 
 
-![Subir Repositorio](/repositorios/IAW/actividad1_1/img/ejercicio%201/git%20init.png)
+![Subir Repositorio](actividad1_1/img/ejercicio%201/git%20init.png)
 
 ---
 
@@ -22,7 +22,7 @@
 **Ahora en una maquina debian lo he clonando.**
 
 
-![Git Clone en Debian](/repositorios/IAW/actividad1_1/img/ejercicio%201/git%20clon%20en%20debian.png)
+![Git Clone en Debian](actividad1_1/img/ejercicio%201/git%20clon%20en%20debian.png)
 
 ---
 
@@ -30,7 +30,7 @@
 **Aquí he modificado uno de los archivos y he creado un fichero 3.**
 
 
-![Crear Fichero 3 y Push](/repositorios/IAW/actividad1_1/img/ejercicio%201/crear%20fichero%203%20y%20push.png)
+![Crear Fichero 3 y Push](actividad1_1/img/ejercicio%201/crear%20fichero%203%20y%20push.png)
 
 ---
 
@@ -38,4 +38,4 @@
 **Ahora he actualizado la version de debian con un pull.**
 
 
-![Git Pull Debian](/repositorios/IAW/actividad1_1/img/ejercicio%201/git%20pull%20debian.png)
+![Git Pull Debian](actividad1_1/img/ejercicio%201/git%20pull%20debian.png)
