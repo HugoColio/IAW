@@ -6,7 +6,7 @@
 **Aquí he creado un repositorio local usando git.**
 
 
-![Git Init](img/ejercicio%201/git%20init.png)
+![Git Init](img/ejercicio1/gitinit.png)
 
 ---
 
